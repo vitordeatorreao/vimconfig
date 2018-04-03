@@ -1,0 +1,5 @@
+# ignores the installed plugings
+bundle/
+# ignores pathogen
+autoload/
+
